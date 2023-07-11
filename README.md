@@ -10,4 +10,10 @@ This is my first next js app
         <li>Create Post</li>
         <li>Hidden Option</li>
     </ul>
+    <li>Created Next Auth</li>
+    <ul>
+        <li>Provider</li> 
+        <li>Sessions</li> 
+        <li>Google Auth</li>
+    </ul>
 </ul>
