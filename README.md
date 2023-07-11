@@ -10,10 +10,18 @@ This is my first next js app
         <li>Create Post</li>
         <li>Hidden Option</li>
     </ul>
+    <br/>
     <li>Created Next Auth</li>
     <ul>
         <li>Provider</li> 
         <li>Sessions</li> 
         <li>Google Auth</li>
+    </ul>
+    <br/>
+    <li>Created Database</li>
+    <ul>
+        <li>Mongodb</li> 
+        <li>Models</li> 
+        <li>...nextauth -> signIn</li>
     </ul>
 </ul>
