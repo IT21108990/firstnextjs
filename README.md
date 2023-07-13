@@ -24,4 +24,9 @@ This is my first next js app
         <li>Models</li> 
         <li>...nextauth -> signIn</li>
     </ul>
+    <br/>
+    <li>Successfuly created Google Login</li>
+    <ul>
+        <li>User's image</li> 
+    </ul>
 </ul>
