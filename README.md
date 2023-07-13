@@ -29,4 +29,5 @@ This is my first next js app
     <ul>
         <li>User's image</li> 
     </ul>
+    <li>Page Navigation</li>
 </ul>
